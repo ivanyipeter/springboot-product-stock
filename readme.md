@@ -1,6 +1,3 @@
-Betanítás - Spring Boot REST
-==
-
 Raktárkészlet kezelése
 
 1. REST hozzáadása
@@ -33,15 +30,11 @@ Raktárkészlet kezelése
     - Először Http Basic auth
     - JWT elmélet (mentor segítség)
     - Hibridlevél JWT Starterek (mentor segítség)
-        - Bódi Daninál lokál m2 repóval intézzük el
     - JWT authentikáció használata
     - Permission based authorization
 1. ProductStock CRUD Rest
     - Productok a Stockban probléma kezelése
-        - Stock lekérésekor, megjelenjenek-e a Productok?
 1. Interceptorok/Filterek/Exception kezelés
 1. Tesztelés
     - Unit tesztek
     - mockmvc integrácós tesztek
-1. Logolás
-    - Miért gázos egy elosztott, rest api kéréseit logolni
