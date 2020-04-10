@@ -29,7 +29,6 @@ Raktárkészlet kezelése
     - Security Starter
     - Először Http Basic auth
     - JWT elmélet (mentor segítség)
-    - Hibridlevél JWT Starterek (mentor segítség)
     - JWT authentikáció használata
     - Permission based authorization
 1. ProductStock CRUD Rest
